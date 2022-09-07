@@ -1,0 +1,21 @@
+2022-09-07 22:30:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "messages" not found (candidates are: "MESSAGES"); SQL statement:
+INSERT INTO "messages" ("TEXT") VALUES (?) [42103-214]
+2022-09-07 22:30:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "messages" not found (candidates are: "MESSAGES"); SQL statement:
+INSERT INTO "messages" ("TEXT") VALUES (?) [42103-214]
+2022-09-07 22:30:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "messages" not found (candidates are: "MESSAGES"); SQL statement:
+INSERT INTO "messages" ("TEXT") VALUES (?) [42103-214]
+2022-09-07 22:31:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "messages" not found (candidates are: "MESSAGES"); SQL statement:
+INSERT INTO "messages" ("TEXT") VALUES (?) [42103-214]
+2022-09-07 22:32:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "messages" not found (candidates are: "MESSAGES"); SQL statement:
+INSERT INTO "messages" ("TEXT") VALUES (?) [42103-214]
+2022-09-07 22:34:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "messages" not found (candidates are: "MESSAGES"); SQL statement:
+INSERT INTO "messages" ("TEXT") VALUES (?) [42103-214]
+2022-09-07 22:40:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "messages" not found (candidates are: "MESSAGES"); SQL statement:
+INSERT INTO "messages" ("TEXT") VALUES (?) [42103-214]
